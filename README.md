@@ -4,4 +4,4 @@
 
 2. MatrixMultiplication.py
 
-3.MNIST.py
+3. MNIST.py
